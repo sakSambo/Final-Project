@@ -1,0 +1,19 @@
+
+=== Zener Diode Voltage Regulator Results ===
+Output Voltage (Vout): 10.00 V
+Load Current (Iout): 3.33 mA
+Current Through Series Resistor (Irs): 0.20 mA
+Power Dissipated by Series Resistor (Prs): 0.40 mW
+Power Dissipated by Zener Diode (Pz): -31.33 mW
+
+
+=== Zener Diode Voltage Regulator Results ===
+Output Voltage (Vout): 5.00 V
+Load Current (Iout): 16.67 mA
+Current Through Series Resistor (Irs): 0.70 mA
+Power Dissipated by Series Resistor (Prs): 4.90 mW
+Power Dissipated by Zener Diode (Pz): -79.83 mW
+
+WARNING: The Zener diode is NOT in breakdown mode.
+Output Voltage (Vout): 1.00 V (equals supply voltage)
+
